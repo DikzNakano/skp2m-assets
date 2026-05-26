@@ -1,1 +1,0 @@
-# skp2m-assets
